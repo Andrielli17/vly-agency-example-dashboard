@@ -29,22 +29,12 @@ export default class Navbar extends Component {
             height: '100%',
             borderBottom: '1px solid white',
             padding: '0 10px'
-          }}>Item 1</li>
+          }}>DASHBOARD</li>
           <li style={{
             display: 'inline-block',
             height: '100%',
             padding: '0 10px'
-          }}>Item 1</li>
-          <li style={{
-            display: 'inline-block',
-            height: '100%',
-            padding: '0 10px'
-          }}>Item 1</li>
-          <li style={{
-            display: 'inline-block',
-            height: '100%',
-            padding: '0 10px'
-          }}>Item 1</li>
+          }}>PROFILE</li>
         </ul>
       </div>
     )

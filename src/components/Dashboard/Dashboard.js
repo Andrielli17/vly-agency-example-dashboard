@@ -96,7 +96,7 @@ export default class Dashboard extends Component {
               flex: 1,
               background: "white",
               height: "280px",
-              margin: "10px"
+              margin: "10px",
             }}
           >
                       <div style={{ color: "grey", marginLeft: 20, marginTop: 10 }}>
@@ -105,7 +105,7 @@ export default class Dashboard extends Component {
             <div
               style={{
                 color: "black",
-                fontSize: 100,
+                fontSize: 50,
                 fontWeight: 900,
                 marginLeft: 20
               }}
@@ -116,7 +116,7 @@ export default class Dashboard extends Component {
               style={{
                 background: "orange",
                 padding: 10,
-                marginTop: 40,
+                marginTop: 10,
                 marginLeft: 20
               }}
             >
@@ -137,7 +137,7 @@ export default class Dashboard extends Component {
             <div
               style={{
                 color: "black",
-                fontSize: 100,
+                fontSize: 50,
                 fontWeight: 900,
                 marginLeft: 20
               }}
@@ -148,7 +148,7 @@ export default class Dashboard extends Component {
               style={{
                 background: "orange",
                 padding: 10,
-                marginTop: 40,
+                marginTop: 10,
                 marginLeft: 20
               }}
             >
@@ -168,7 +168,7 @@ export default class Dashboard extends Component {
             <div
               style={{
                 color: "black",
-                fontSize: 100,
+                fontSize: 50,
                 fontWeight: 900,
                 marginLeft: 20
               }}
@@ -179,7 +179,7 @@ export default class Dashboard extends Component {
               style={{
                 background: "orange",
                 padding: 10,
-                marginTop: 40,
+                marginTop: 10,
                 marginLeft: 20
               }}
             >
