@@ -4,7 +4,10 @@ import React, { Component } from 'react';
 export class GoogleMap extends Component {
   render() {
     return (
-      <Map google={this.props.google} zoom={14}>
+      <Map google={this.props.google} zoom={14} style={{
+          height: `${window.innerHeight - 50}px`,
+          width: '80%'
+      }}>
  
         <Marker onClick={this.onMarkerClick}
                 name={'Current location'} />
