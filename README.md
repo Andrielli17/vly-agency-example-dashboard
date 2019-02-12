@@ -1,3 +1,5 @@
+_Created by NZOleg at the Voluntari.ly Hackfest 8-12-2018 Forked here for reference._
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
